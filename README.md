@@ -1,2 +1,2 @@
-# CPSC404-Project
+# Databass Project
 A hotel booking &amp; schedule system
